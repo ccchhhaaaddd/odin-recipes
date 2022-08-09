@@ -1,0 +1,33 @@
+/* styles.css */
+
+.background {
+    background-color: #355C7D;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    color: #C06C84;
+    text-decoration: underline;
+}
+
+.subtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    color: #F67280;
+}
+
+.bold {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 26px;
+    color: #6C5B7B;
+}
+
+img {
+    border: 5px solid #F67280 ;
+    height: auto;
+    width: 600px;
+  }
